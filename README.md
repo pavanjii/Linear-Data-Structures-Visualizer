@@ -1,5 +1,5 @@
 # Linear-Data-Structures-Visualizer
-An interactive Java Swing-based GUI application designed to help users understand and visualize fundamental linear data structures. This educational tool allows students and beginners to explore how data structures work internally through intuitive visual representation and user-friendly controls.
+An interactive Java Swing-based GUI application designed to help users understand and visualise fundamental linear data structures. This educational tool allows students and beginners to explore how data structures work internally through an intuitive visual representation and user-friendly controls.
 
 🔧 Technologies Used
 Java (Core)
@@ -32,6 +32,8 @@ Get hands-on practice with GUI event handling and Swing component manipulation.
 Learn how to implement real-time data structure operations visually.
 
 📸 Screenshots
+
+
 <img width="667" height="462" alt="Screenshot 2024-11-04 154033" src="https://github.com/user-attachments/assets/f6165809-df8e-4586-a8d7-4c144a2caf26" />
 <img width="615" height="480" alt="Screenshot 2024-11-05 161107" src="https://github.com/user-attachments/assets/b8c8b79a-f73e-4fe5-96a1-1824cdc44f75" />
 <img width="587" height="453" alt="Screenshot 2024-11-05 171603" src="https://github.com/user-attachments/assets/0dca9843-f92e-4be6-bcb9-d08391bc5e24" />
